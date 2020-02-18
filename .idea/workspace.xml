@@ -220,8 +220,8 @@
     <SUITE FILE_PATH="coverage/SmartHomeV6Code_TestCloud$Unittests_in_test_login_bythird.coverage" NAME="Unittests in test_login_bythird Coverage Results" MODIFIED="1545118233850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
     <SUITE FILE_PATH="coverage/python_server$Unittests_for_test_users_uId_users_push_info_get_Users_uId_users_push_info_getTestCase.coverage" NAME="Unittests for test_users_uId_users_push_info_get.Users_uId_users_push_info_getTestCase Coverage Results" MODIFIED="1509422136331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
     <SUITE FILE_PATH="coverage/python_server$Unittests_for_test_user_uId_req_control_touchdimmingswitch0_User_uId_req_control_touchdimmingswitch0TestCase_test_user_uId_req_control_touchdimmingswitch0.coverage" NAME="Unittests for test_user_uId_req_control_touchdimmingswitch0.User_uId_req_control_touchdimmingswitch0TestCase.test_user_uId_req_control_touchdimmingswitch0 Coverage Results" MODIFIED="1510301443515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mqtt_test/unite" />
-    <SUITE FILE_PATH="coverage/SmartHomeV6Code_TestCloud$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1554101339348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase" />
     <SUITE FILE_PATH="coverage/SmartHomeV6Code_TestCloud$Unittests_in_test_ent_playMusic.coverage" NAME="Unittests in test_ent_playMusic Coverage Results" MODIFIED="1562745372195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
+    <SUITE FILE_PATH="coverage/SmartHomeV6Code_TestCloud$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1581298782832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase" />
     <SUITE FILE_PATH="coverage/python_server$Unittests_in_test_theme_getAllTheme_py.coverage" NAME="Unittests in test_theme_getAllTheme.py Coverage Results" MODIFIED="1509527930837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
     <SUITE FILE_PATH="coverage/python$Unittests_for_test_login_byphone_Login_byphoneTestCase.coverage" NAME="Unittests for test_login_byphone.Login_byphoneTestCase Coverage Results" MODIFIED="1505204752333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
     <SUITE FILE_PATH="coverage/SmartHomeV6Code_TestCloud$Unittests_in_test_users_uId_device_relation_deviceId.coverage" NAME="Unittests in test_users_uId_device_relation_deviceId Coverage Results" MODIFIED="1545103637655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_interfacecase/unite" />
@@ -531,28 +531,8 @@
       <file leaf-file-name="all_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_interfacecase/all_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2398">
-              <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apiProcess.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_interfacecase/common/process/apiProcess.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_das_weather_current.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_interfacecase/unite/test_das_weather_current.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+            <state relative-caret-position="2081">
+              <caret line="114" column="32" lean-forward="false" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -571,8 +551,8 @@
       <file leaf-file-name="send_email.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_interfacecase/send_email.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="165" column="12" lean-forward="true" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -580,10 +560,50 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="action.bat" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_interfacecase/action.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interface_integration.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_interfacecase/interface_integration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_result_sendemail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_interfacecase/test_result_sendemail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_case_.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_interfacecase/test_case_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="kernal_function.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_interfacecase/bussiness/kernal_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="748">
               <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
               <folding />
             </state>
@@ -604,17 +624,7 @@
         <entry file="file://$PROJECT_DIR$/test_interfacecase/public/login_byphone.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_cloud.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_interfacecase/demo_cloud.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="817" column="4" lean-forward="true" selection-start-line="817" selection-start-column="4" selection-end-line="817" selection-end-column="4" />
+              <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -768,7 +778,6 @@
         <option value="$PROJECT_DIR$/test_interfacecase/public/user_wechat_bind.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/demo_cloud.csv" />
         <option value="$PROJECT_DIR$/test_interfacecase/wuliancloud_interfacetest.html" />
-        <option value="$PROJECT_DIR$/test_interfacecase/send_email.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/common/process/exe.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/common/mainFunction.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/bussiness/kernal_function.py" />
@@ -777,6 +786,7 @@
         <option value="$PROJECT_DIR$/test_interfacecase/common/connectInterface.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/unite/test_ent_playMusic.py" />
         <option value="$PROJECT_DIR$/test_interfacecase/all_tests.py" />
+        <option value="$PROJECT_DIR$/test_interfacecase/send_email.py" />
       </list>
     </option>
   </component>
@@ -789,8 +799,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -854,8 +864,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -868,18 +878,18 @@
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\SmartHomeV6Code_TestCloud" />
+      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\unite" />
+      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\public" />
+      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common\tst" />
+      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common\process" />
       <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common" />
       <recent name="F:\python\test_interfacecase\bussiness\cloud_iot" />
       <recent name="F:\python\test_interfacecase\bussiness\cloud_iot_test" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\unite" />
-      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\public" />
-      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common\tst" />
-      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase\common" />
-      <recent name="D:\code\SmartHomeV6Code_TestCloud\test_interfacecase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -894,7 +904,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.all_tests">
+  <component name="RunManager" selected="Python.send_email">
     <configuration default="false" name="Unittests in test_ent_playMusic" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -911,29 +921,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest test_ent_playMusic.test_play_music" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_interfacecase/unite" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_interfacecase/unite/test_ent_playMusic.py" />
-      <option name="CLASS_NAME" value="test_ent_playMusic" />
-      <option name="METHOD_NAME" value="test_play_music" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -996,6 +983,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_interfacecase/unite/test_das_weather_current.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="send_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_interfacecase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_interfacecase/send_email.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1235,18 +1240,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.test_case_ (1)" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest test_ent_playMusic.test_play_music" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.all_tests" />
-      <item index="5" class="java.lang.String" itemvalue="Python.test_das_weather_current" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.all_tests" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_das_weather_current" />
+      <item index="5" class="java.lang.String" itemvalue="Python.send_email" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.all_tests" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_das_weather_current" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest test_ent_playMusic.test_play_music" />
+        <item index="0" class="java.lang.String" itemvalue="Python.send_email" />
+        <item index="1" class="java.lang.String" itemvalue="Python.all_tests" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_das_weather_current" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_ent_playMusic" />
       </list>
     </recent_temporary>
   </component>
@@ -1311,29 +1316,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2650862" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23287672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30122116" sideWeight="0.18821838" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30082646" sideWeight="0.18821838" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30247933" sideWeight="0.8117816" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3962008" sideWeight="0.4974227" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3962008" sideWeight="0.4974227" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43184885" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30393487" sideWeight="0.8117816" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20107962" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1377,41 +1382,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/bussiness/change_phonepassword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/unite/test_login_third_bind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/public/login_third_bind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/public/user_updatepass_byphone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/public/user_updatepass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_interfacecase/unite/test_user_updatepass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1558,13 +1528,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://C:/Python35/Lib/site-packages/requests-2.19.1-py3.5.egg/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2266">
-          <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python35/Lib/site-packages/requests-2.19.1-py3.5.egg/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/test_interfacecase/common/header.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1034">
@@ -1628,13 +1592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python35/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1584">
-          <caret line="85" column="4" lean-forward="false" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/Python35/Lib/unittest/case.py" />
     <entry file="file://$PROJECT_DIR$/test_interfacecase/unite/test_ent_playMusic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -1646,7 +1604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1668,7 +1625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="17" column="56" lean-forward="false" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1683,30 +1639,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_interfacecase/demo_cloud.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="817" column="4" lean-forward="true" selection-start-line="817" selection-start-column="4" selection-end-line="817" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="17974">
+          <caret line="817" column="4" lean-forward="false" selection-start-line="817" selection-start-column="4" selection-end-line="817" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_interfacecase/public/login_byphone.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_interfacecase/all_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2398">
-          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1721,8 +1667,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_interfacecase/bussiness/kernal_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="748">
           <caret line="54" column="29" lean-forward="false" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_interfacecase/test_result_sendemail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_interfacecase/test_case_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_interfacecase/action.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_interfacecase/all_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2081">
+          <caret line="114" column="32" lean-forward="false" selection-start-line="114" selection-start-column="32" selection-end-line="114" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_interfacecase/interface_integration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -1737,8 +1730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_interfacecase/send_email.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="420">
+          <caret line="165" column="12" lean-forward="true" selection-start-line="165" selection-start-column="12" selection-end-line="165" selection-end-column="12" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
